@@ -37,4 +37,4 @@ bing.search({
 
 # Notes
 
-* now it supports only images search. So the result returned by the method `search()` are images
+* now it supports only images search. So the result returned by the method `search()` are images.
